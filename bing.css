@@ -1,0 +1,240 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f4f4;
+  margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-bar {
+  background-color: #006BC1;
+  position: fixed;
+  top: 0;
+  width: 100% 
+}
+
+.logo-img{
+  float: left;
+  position: relative;
+  margin: 10px 15px 15px;
+  margin-left: 5%;
+}
+
+.sidebar {
+  float: left;
+  width: 300px;
+  height: 775px;
+  margin-left: 90px;
+  background-color:#ffffff;
+}
+
+#settings {
+  margin-top: 80px;
+  margin-left: 50px;
+  position: fixed;
+}
+
+#settings h3{
+  font-size: 22px;
+}
+
+.app {
+  position: fixed;
+}
+
+#h4 {
+  color: #006BC1;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.app h4 a:hover {
+  color: #006BC1;
+}  
+
+.app a {
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.app a:hover {
+  color: #006BC1;
+} 
+
+.Appearance h3 {
+  font-size: 18px;
+  margin-left: 430px;
+  padding-top: 70px;
+}
+
+.elements {
+  width: 1060px;
+  height: auto;
+  background-color: white;
+  margin-left: 430px;
+  margin-top: 20px;
+}
+
+.elements h4 {
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+}
+
+#Theme {
+  width: 220px;
+  height: 40px;
+  margin-left: 720px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Theme:hover {
+  border: 1px solid #006BC1;
+}
+
+#Bookmarks {
+  width: 220px;
+  height: 40px;
+  margin-left: 640px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Bookmarks:hover {
+  border: 1px solid #006BC1;
+}
+
+#Book-button {
+  width: 220px;
+  height: 40px;
+  margin-left: 584px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Book-button:hover {
+  border: 1px solid #006BC1;
+}
+
+#Home-button {
+  width: 220px;
+  height: 40px;
+  margin-left: 623px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Home-button:hover {
+  border: 1px solid #006BC1;
+}
+
+#Page-zoom {
+  width: 220px;
+  height: 40px;
+  margin-left: 686px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Page-zoom:hover {
+  border: 1px solid #006BC1;
+}
+
+#Side-panel {
+  width: 220px;
+  height: 40px;
+  margin-left: 694px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Side-panel:hover {
+  border: 1px solid #006BC1;
+}
+
+#Font-size {
+  width: 220px;
+  height: 40px;
+  margin-left: 704px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Font-size:hover {
+  border: 1px solid #006BC1;
+}
+
+#Tab-sear-butt {
+  width: 220px;
+  height: 40px;
+  margin-left: 590px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Tab-sear-butt:hover {
+  border: 1px solid #006BC1;
+}
+
+#Tab-ho-mo {
+  width: 220px;
+  height: 40px;
+  margin-left: 648px;
+  padding-left: 20px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #F2F7FB;
+}
+
+#Tab-ho-mo:hover {
+  border: 1px solid #006BC1;
+}
+
+
+
+
+
